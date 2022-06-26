@@ -1,9 +1,1 @@
-<- Bad ip #->{"asn":"8075","bad":true,"code":1,"country":"US","ipaddress":"104.41.135.137","name":"MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation","type":"proxy"}<- Bad ip #-> \n<- Bad ip #->{"asn":"8075","bad":true,"code":1,"country":"US","ipaddress":"104.41.135.137","name":"MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation","type":"proxy"}<- Bad ip #-> \n<- Bad ip #->{"asn":"8075","bad":true,"code":1,"country":"US","ipaddress":"104.41.135.137","name":"MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation","type":"proxy"}<- Bad ip #-> \n<- Bad ip #->{"asn":"8075","bad":true,"code":1,"country":"US","ipaddress":"104.41.135.137","name":"MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation","type":"proxy"}<- Bad ip #-> \n<- Bad ip #->{"asn":"8075","bad":true,"code":1,"country":"US","ipaddress":"104.41.135.137","name":"MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation","type":"proxy"}<- Bad ip #-> \n#> ::1  And ua = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 
-#> ::1  And ua = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 
-#> 127.0.0.1  And ua = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0 
-#> 127.0.0.1  And ua = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0 
-#> 161.35.89.202 [ Digital ocean  ] 
-#> 161.35.89.202 [ Digital ocean  ] 
-#> 164.90.241.135 [ Digital ocean  ] 
-#> 164.90.241.135 [ Digital ocean  ] 
-#> 52.190.1.123 [ MICROSOFT  ] 
+#> TelegramBot (like TwitterBot) [ Bad words ] 
